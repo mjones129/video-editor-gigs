@@ -1,9 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Example from "./partials/header.js";
 
 function App() {
   return (
     <div className="App">
+      <div>
+        <Example />
+      </div>
       <header className="App-header">
         <h1>Video Editor Gigs</h1>
         <img src={logo} className="App-logo" alt="logo" />
