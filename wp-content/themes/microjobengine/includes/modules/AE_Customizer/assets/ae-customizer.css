@@ -1,0 +1,9 @@
+#customize-controls img {
+    width: auto;
+}
+
+.attachment-media-view .placeholder {
+	padding: 0 !important;
+	height: 40px;
+    line-height: 40px !important;
+}

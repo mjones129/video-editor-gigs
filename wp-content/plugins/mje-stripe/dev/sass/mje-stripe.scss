@@ -1,0 +1,76 @@
+#stripe_checkout_modal {
+  form {
+    padding: 50px;
+    position: relative;
+    @media (max-width: 414px) {
+      padding: 25px;
+    }
+  }
+
+  #card-element {
+    margin: 10px 0;
+    border-bottom: 1px solid rgba(137, 138, 144, 0.2);
+    padding-bottom: 10px;
+  }
+
+  .form-row {
+    margin-bottom: 30px;
+  }
+
+  .form-label {
+    font-size: 1em;
+    margin: 0;
+    .field-title {
+      color: #000;
+      font-weight: bold;
+    }
+    &.lb-full-w {
+      width: 100%;
+    }
+    &.lb-half-w {
+      width: 50%;
+    }
+    .field-title {
+      display: block;
+    }
+  }
+  
+  input {
+    color: black;
+    font-size: 14px;
+    font-weight: normal;
+  }
+
+  button[type="submit"] {
+    margin-top: 30px;
+    @media (max-width: 414px) {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+  }
+
+  /* Payment errors */
+  .payment-errors {
+    color: #e13760;
+    width: 100%;
+    font-weight: 700;
+    text-align: right;
+    position: absolute;
+    right: 50px;
+    @media (max-width: 414px) {
+      right: 25px;
+    }
+  }
+
+  .powered-by {
+    position: absolute;
+    right: 50px;
+    bottom: 51px;
+    width: 170px;
+    @media (max-width: 414px) {
+      width: 100px;
+      bottom: 34px;
+      right: 25px;
+    }
+  }
+}

@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mje Geolocation V1.1.1\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2021-07-20 22:07+0700\n"
+"PO-Revision-Date: 2021-07-20 22:07+0700\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: language.php:4
+msgid "Select your language"
+msgstr ""
+
+#: language.php:5
+msgid "English"
+msgstr ""
+
+#: language.php:6
+msgid "Arabic"
+msgstr ""
+
+#: language.php:7
+msgid "Basque"
+msgstr ""
+
+#: language.php:8
+msgid "Bulgarian"
+msgstr ""
+
+#: language.php:9
+msgid "Bengali"
+msgstr ""
+
+#: language.php:10
+msgid "Catalan"
+msgstr ""
+
+#: language.php:11
+msgid "Czech"
+msgstr ""
+
+#: language.php:12
+msgid "Danish"
+msgstr ""
+
+#: language.php:13
+msgid "German"
+msgstr ""
+
+#: language.php:14
+msgid "Greek"
+msgstr ""
+
+#: language.php:15
+msgid "English (Australian)"
+msgstr ""
+
+#: language.php:16
+msgid "English (Great Britain)"
+msgstr ""
+
+#: language.php:17
+msgid "Spanish"
+msgstr ""
+
+#: language.php:18
+msgid "Farsi"
+msgstr ""
+
+#: language.php:19
+msgid "Finnish"
+msgstr ""
+
+#: language.php:20
+msgid "Filipino"
+msgstr ""
+
+#: language.php:21
+msgid "French"
+msgstr ""
+
+#: language.php:22
+msgid "Galician"
+msgstr ""
+
+#: language.php:23
+msgid "Gujarati"
+msgstr ""
+
+#: language.php:24
+msgid "Hindi"
+msgstr ""
+
+#: language.php:25
+msgid "Croatian"
+msgstr ""
+
+#: language.php:26
+msgid "Hungarian"
+msgstr ""
+
+#: language.php:27
+msgid "Indonesian"
+msgstr ""
+
+#: language.php:28
+msgid "Italian"
+msgstr ""
+
+#: language.php:29
+msgid "Hebrew"
+msgstr ""
+
+#: language.php:30
+msgid "Japanese"
+msgstr ""
+
+#: language.php:31
+msgid "Kannada"
+msgstr ""
+
+#: language.php:32
+msgid "Korean"
+msgstr ""
+
+#: language.php:33
+msgid "Lithuanian"
+msgstr ""
+
+#: language.php:34
+msgid "Latvian"
+msgstr ""
+
+#: language.php:35
+msgid "Malayalam"
+msgstr ""
+
+#: language.php:36
+msgid "Marathi"
+msgstr ""
+
+#: language.php:37
+msgid "Dutch"
+msgstr ""
+
+#: language.php:38
+msgid "Norwegian"
+msgstr ""
+
+#: language.php:39
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: language.php:40
+msgid "Polish"
+msgstr ""
+
+#: language.php:41
+msgid "Portuguese"
+msgstr ""
+
+#: language.php:42
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: language.php:43
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: language.php:44
+msgid "Romanian"
+msgstr ""
+
+#: language.php:45
+msgid "Russian"
+msgstr ""
+
+#: language.php:46
+msgid "Slovak"
+msgstr ""
+
+#: language.php:47
+msgid "Slovenian"
+msgstr ""
+
+#: language.php:48
+msgid "Serbian"
+msgstr ""
+
+#: language.php:49
+msgid "Swedish"
+msgstr ""
+
+#: language.php:50
+msgid "Tagalog"
+msgstr ""
+
+#: language.php:51
+msgid "Tamil"
+msgstr ""
+
+#: language.php:52
+msgid "Telugu"
+msgstr ""
+
+#: language.php:53
+msgid "Thai"
+msgstr ""
+
+#: language.php:54
+msgid "Turkish"
+msgstr ""
+
+#: language.php:55
+msgid "Ukrainian"
+msgstr ""
+
+#: language.php:56
+msgid "Vietnamese"
+msgstr ""
+
+#: language.php:57
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: language.php:58
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: mje-geolocation.php:126
+msgid "View in google map"
+msgstr ""
+
+#: mje-geolocation.php:166 mje-geolocation.php:167 mje-geolocation.php:179
+#: mje-geolocation.php:212 mje-geolocation.php:434
+msgid "Locations"
+msgstr ""
+
+#: mje-geolocation.php:168 mje-geolocation.php:426
+msgid "Search Locations"
+msgstr ""
+
+#: mje-geolocation.php:169
+msgid "Popular Locations"
+msgstr ""
+
+#: mje-geolocation.php:170 mje-geolocation.php:427
+msgid "All Locations"
+msgstr ""
+
+#: mje-geolocation.php:171 mje-geolocation.php:428
+msgid "Parent Location"
+msgstr ""
+
+#: mje-geolocation.php:172
+msgid "Parent Locations"
+msgstr ""
+
+#: mje-geolocation.php:173 mje-geolocation.php:430
+msgid "Edit Location"
+msgstr ""
+
+#: mje-geolocation.php:174 mje-geolocation.php:431
+msgid "Update Location"
+msgstr ""
+
+#: mje-geolocation.php:175
+msgid "Add New Locations"
+msgstr ""
+
+#: mje-geolocation.php:176 mje-geolocation.php:433
+msgid "New Location Name"
+msgstr ""
+
+#: mje-geolocation.php:177
+msgid "Add or remove Tags"
+msgstr ""
+
+#: mje-geolocation.php:178
+msgid "Choose from most used enginetheme"
+msgstr ""
+
+#: mje-geolocation.php:221
+msgid "Filter by location"
+msgstr ""
+
+#: mje-geolocation.php:256
+msgid "Distance Filter"
+msgstr ""
+
+#: mje-geolocation.php:429
+msgid "Parent Location:"
+msgstr ""
+
+#: mje-geolocation.php:432
+msgid "Add New Location"
+msgstr ""
+
+#: setting.php:53 setting.php:54
+msgid "Mjob Geolocation"
+msgstr ""
+
+#: setting.php:58
+msgid "An extension for MicrojobEngine"
+msgstr ""
+
+#: setting.php:78
+msgid "General Settings"
+msgstr ""
+
+#: setting.php:87
+msgid "General"
+msgstr ""
+
+#: setting.php:98
+msgid "Google Map API Key"
+msgstr ""
+
+#: setting.php:99
+msgid ""
+"Make sure you have activated “Maps JavaScript API” as well as “Geocoding "
+"API” Library"
+msgstr ""
+
+#: setting.php:129 setting.php:130
+msgid "Map language"
+msgstr ""
+
+#: setting.php:140
+msgid "Hover mjob event"
+msgstr ""
+
+#: setting.php:141
+msgid "Show full address of mjob when hover the mjob"
+msgstr ""
+
+#: template/mjegeo_post_service.php:4
+msgid "Address"
+msgstr ""
+
+#: template/mjegeo_post_service.php:30
+msgid "LOCATION"
+msgstr ""
+
+#: template/mjegeo_post_service.php:39
+msgid "Select your location"
+msgstr ""
+
+#: template/mjegeo_search_home.php:12
+msgid "Enter keyword"
+msgstr ""
+
+#: template/mjegeo_search_home.php:17
+msgid "Address ..."
+msgstr ""
+
+#: template/mjegeo_search_home.php:50
+msgid "All Location"
+msgstr ""
+
+#: template/mjegeo_search_home.php:62
+msgid "SEARCH"
+msgstr ""
+
+#~ msgid "Or deposit a specific amount"
+#~ msgstr "Or deposit a specific amount"

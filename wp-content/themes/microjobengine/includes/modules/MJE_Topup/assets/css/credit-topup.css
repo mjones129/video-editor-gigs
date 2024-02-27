@@ -1,0 +1,143 @@
+.topup-amount-input {
+    height: 28px;
+}
+
+.wp-list-table .inline-edit-row-topup {
+    background-color:  #efefef !important;
+}
+
+#wpbody-content .inline-edit-row-topup .inline-edit-col-center {
+    width: 40%;
+    margin-left: 40px;
+}
+
+#wpbody-content .inline-edit-row-topup .inline-edit-col-left {
+    width: 20%;
+    float: left;
+}
+
+.inline-edit-row-topup .topup-edit-actions {
+    margin: 20px 0;
+}
+
+.inline-edit-row-topup .topup-edit-available-fun-preview {
+    font-size: 40px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.inline-edit-row-topup .topup-edit-available-fun-preview.old {
+    font-size: 28px;
+    color: #bdbdbd;
+    text-decoration: line-through;
+}
+
+
+
+.inline-edit-row-topup .topup-edit-user-info p {
+    font-size: 12px;
+}
+
+.inline-edit-row-topup .topup-edit-user-info strong {
+    font-size: 14px;
+}
+
+.inline-edit-row-topup .colspanchange {
+    position: relative;
+}
+
+.inline-edit-row-topup .colspanchange .inline-edit-spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, .4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inline-edit-row-topup .colspanchange .inline-edit-spinner .spinner {
+    float: initial;
+    visibility: visible;
+}
+
+.inline-edit-row-topup .colspanchange .inline-edit-spinner.hide {
+    visibility: hidden;
+}
+
+.inline-edit-row-topup .colspanchange .inline-edit-spinner.hide .spinner {
+    visibility: hidden;
+}
+
+.topup-changelog-dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.5);
+    z-index: 999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topup-changelog-dialog.hidden {
+    display: none;
+}
+
+.topup-changelog-dialog .inner {
+    border-radius: 5px;
+    max-width: 800px;
+    width: 800px;
+    max-height: 500px;
+    overflow: auto;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.topup-changelog-dialog .inner .spinner-wrapper {
+    text-align: center;
+    display: none;
+}
+
+.topup-changelog-dialog .inner.is-empty .spinner-wrapper {
+    display: block;
+}
+
+.topup-changelog-dialog .inner.is-empty .spinner {
+    visibility: visible;
+    float: initial;
+}
+
+.topup-changelog-dialog .inner .user-info {
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 20px;
+}
+
+.topup-changelog-dialog .inner .user-info p:first-child {
+    margin-top: 0;
+}
+
+.topup-changelog-dialog .inner {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.topup-changelog-dialog .inner .not-found {
+    text-align: center;
+}
+
+.topup-changelog-dialog .inner table .changelog-amount {
+    font-weight: 700;
+}
+
+.topup-changelog-dialog .inner table .changelog-amount.minus {
+    color: #ec3a3a;
+}
+.topup-changelog-dialog .inner table .changelog-amount.add {
+    color: #10a2ef;
+}
