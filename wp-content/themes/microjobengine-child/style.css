@@ -1,0 +1,51 @@
+/*
+Theme Name:     MicrojobEngine Child
+Theme URI:      http://enginetheme.com/
+Description:    Child theme for the MicrojobEngine theme
+Author: 		EngineThemes Team
+Author URI: 	http://www.enginethemes.com
+Template:       microjobengine
+Version:        1.0.1
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;400;800&display=swap');
+
+body.diplomat {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: 'Saira Condensed', sans-serif;
+    font-weight: 400;
+}
+
+p.block-title {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+h2.name {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.name-site {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+p.text-content {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.diplomat h6 {
+    font-family: 'Saira Condensed', sans-serif;
+}

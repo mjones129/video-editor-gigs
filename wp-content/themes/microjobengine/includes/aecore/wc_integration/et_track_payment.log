@@ -1,0 +1,59 @@
+2022-03-08 13:51:20: setup_payment
+2022-03-08 13:51:20: checkout:
+2022-03-08 13:51:20: Array
+(
+    [p_data] => Array
+        (
+            [mjob_name] => I can cook
+            [post_title] => Order for I can cook 
+            [post_content] => Order for I can cook 
+            [post_parent] => 313
+            [et_budget] => 5
+            [subtotal] => 5
+            [total] => 5
+            [post_type] => mjob_order
+            [method] => create
+            [ef_fixed] => 0
+            [ef_percent] => 0
+            [_wpnonce] => 08b25af532
+            [custom_fee] => 0
+            [discount] => 0
+            [_coupon_code] => 
+            [payment_type] => paypal
+        )
+
+    [p_type] => mjob_order
+    [p_total] => 5
+    [p_payment] => paypal
+    [p_nonce] => d9a644071e
+    [p_subtotal] => 5
+    [p_fee] => 0
+    [p_discount] => 0
+    [coupon_code] => 
+    [ef_fixed] => 0
+    [ef_percent] => 0
+    [action] => mje_checkout_product
+    [method] => create
+)
+2022-03-08 13:51:20: order_data:
+2022-03-08 13:51:20: Array
+(
+    [payer] => 2
+    [total] => 
+    [status] => draft
+    [payment] => paypal
+    [paid_date] => 
+    [post_parent] => 372
+    [amount] => 5
+    [coupon_code] => 
+)
+2022-03-08 13:51:20: SAVE order_id to section: v1
+2022-03-08 13:51:20: Call order->accept()
+2022-03-08 13:51:20: ET_Order::accept et-order.php
+2022-03-08 13:51:20: result of accept == nvp: 
+2022-03-08 13:51:20: Array
+(
+    [url] => https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_cart&no_note=1&rm=2&business=danhoat@gmail.com&notify_url=https%3A%2F%2Flab.thuexephanrang.net%2F%3FpaypalListener%3Dpaypal_appengine_IPN&return=https%3A%2F%2Flab.thuexephanrang.net%2F%3Fpage_id%3D303%26order-id%3D373%26ppipn%3Dengineipn1&ppipn=ppappengineipn2&cancel_return=https%3A%2F%2Flab.thuexephanrang.net%2F%3Fpage_id%3D335&item_name_1=Order for I can cook &amount_1=5&item_number_1=1&invoice=kkk_373&custom=373&upload=1&amount=5.00&currency_code=USD
+    [ACK] => 1
+    [extend] => 
+)

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MjE Stripe\n"
+"POT-Creation-Date: 2017-04-17 13:39+0700\n"
+"PO-Revision-Date: 2017-04-17 13:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: EngineThemes <contact@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: .idea\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+
+#: inc/class-mje-stripe-admin.php:41 inc/class-mje-stripe-admin.php:49
+#: inc/gateway/class-mje-stripe.php:83 template.php:28 template.php:63
+#: templates/payment-modal.php:10
+msgid "Stripe"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:59
+msgid "Using Stripe"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:60
+msgid "Enabling this will activate Stripe payment gateway."
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:68
+msgid "Stripe API"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:69
+msgid ""
+"The Stripe API by providing one of your API keys in the request. Get API <a "
+"href=\"https://dashboard.stripe.com/account/apikeys\" target=\"_blank"
+"\">here</a>."
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:76
+msgid "Test secret key"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:84
+msgid "Test publishable key"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:92
+msgid "Live secret key"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:100
+msgid "Live publishable key"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:110
+msgid "Production Mode"
+msgstr ""
+
+#: inc/class-mje-stripe-admin.php:111
+msgid ""
+"Enabling this will allow you to use the minify version of CSS or Javascript."
+msgstr ""
+
+#: inc/gateway/class-mje-stripe-visitor.php:28
+#, php-format
+msgid "Charge by user: %s"
+msgstr ""
+
+#: inc/gateway/class-mje-stripe-visitor.php:45
+msgid "Congrats. Your payment is successful!"
+msgstr ""
+
+#: template.php:21
+msgid "You can not use this checkout method because of missing API key."
+msgstr ""
+
+#: templates/payment-form.php:4
+msgid "Credit or debit card"
+msgstr ""
+
+#: templates/payment-form.php:15
+msgid "Pay Now"
+msgstr ""

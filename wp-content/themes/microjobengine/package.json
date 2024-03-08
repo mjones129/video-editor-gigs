@@ -1,0 +1,40 @@
+{
+  "name": "microjobengine",
+  "version": "1.3.4",
+  "description": "MicrjobEngine Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungWorldTechnology/microjobengine.git"
+  },
+  "author": "Thien Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungWorldTechnology/microjobengine/issues"
+  },
+  "homepage": "https://github.com/YoungWorldTechnology/microjobengine#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bump": "^2.7.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-git": "^1.15.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.2.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "gulp-git": "^1.11.3",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^2.0.0"
+  }
+}
